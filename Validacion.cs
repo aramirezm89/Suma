@@ -23,7 +23,7 @@ namespace Suma
             else
             {
                 e.Handled = true;
-                MessageBox.Show("Solo Puede ingresar Numeros", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Solo Puede ingresar Numeros", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
         }
